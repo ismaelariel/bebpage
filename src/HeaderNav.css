@@ -1,0 +1,33 @@
+.container-header {
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+nav.bg-light {
+    background-color: #1F3368 !important;
+}
+
+.link-credential-header {
+    color: #ffffff !important;
+    text-decoration: none;
+}
+
+/* a:link {
+    color: red !important;
+} */
+  
+  /* visited link
+  a:visited {
+    color: green;
+  }
+  
+  a:hover {
+    color: hotpink;
+  }
+  
+  a:active {
+    color: blue;
+  } */

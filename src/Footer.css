@@ -1,0 +1,15 @@
+.footer, .footer-container {
+    position: fixed;
+    left: 0;
+    margin:0;
+    bottom: 0;
+    width: 100%;
+    padding: 14px 0;
+    text-align: center;
+    color: #ffffff;
+    background-color: #1F3368;
+}
+
+#footer-text-info {
+    font-size: 12px;
+}
